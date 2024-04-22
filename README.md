@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 👀 I’m interested in Salesforce Apex, LWC, Aura, Visual Force, Mulesoft, Python
 - 🌱 I’m currently working on Salesforce Projects
-- 📫 How to reach me ... https://www.linkedin.com/in/truonglai/
+- 📫 How to reach me ... [Linkedin](https://www.linkedin.com/in/truonglai/) | [Trailblazer](https://www.salesforce.com/trailblazer/truonglaisfdev)
