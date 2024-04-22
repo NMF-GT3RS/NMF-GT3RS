@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I’m Lai Truong
 
 <!--
 **NMF-GT3RS/NMF-GT3RS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👀 I’m interested in Salesforce Apex, LWC, Aura, Visual Force, Mulesoft, Python
+- 🌱 I’m currently working on Salesforce Projects
+- 📫 How to reach me ... https://www.linkedin.com/in/truonglai/
